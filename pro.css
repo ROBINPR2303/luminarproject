@@ -1,0 +1,42 @@
+#q1:hover{
+    background-color: rgb(155, 149, 149);
+    color: rgb(184, 15, 156);
+    box-shadow: 12px 12px 2px 1px rgba(140, 140, 143, 0.2);
+}
+#d1:hover{
+    padding: 20px;
+  box-shadow: inset 0 -3em 3em rgba(0, 0, 0, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(0, 0, 0, 0.3);
+}
+#card1:hover{
+    box-shadow: 8px 8px 10px 0px rgb(146, 144, 145), -5px -5px 5px 0px rgb(177, 177, 182),
+      5px 5px 15px 0px rgb(163, 163, 158);
+
+}
+#card2:hover{
+    box-shadow: 8px 8px 10px 0px rgb(146, 144, 145), -5px -5px 5px 0px rgb(177, 177, 182),
+      5px 5px 15px 0px rgb(163, 163, 158);
+
+}
+#card3:hover{
+    box-shadow: 8px 8px 10px 0px rgb(146, 144, 145), -5px -5px 5px 0px rgb(177, 177, 182),
+      5px 5px 15px 0px rgb(163, 163, 158);
+
+}
+#e1:hover{
+    background-color: rgb(155, 149, 149);
+    color: rgb(184, 15, 156);
+    box-shadow: 12px 12px 2px 1px rgba(140, 140, 143, 0.2);
+}
+#z1:hover{
+  background-color: rgb(155, 149, 149);
+  color: rgb(184, 15, 156);
+  box-shadow: 12px 12px 2px 1px rgba(140, 140, 143, 0.2);
+
+}
+.b4:hover{
+  background-color: white;
+  color: rgb(199, 16, 199);
+  box-shadow: 12px 12px 2px 1px rgba(140, 140, 143, 0.2);
+
+}
